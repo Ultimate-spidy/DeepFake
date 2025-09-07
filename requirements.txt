@@ -1,0 +1,35 @@
+# Common Python packages for ML/DeepFake projects
+# Uncomment and modify based on your project needs
+
+# Core ML libraries
+# torch>=1.9.0
+# torchvision>=0.10.0
+# tensorflow>=2.6.0
+# numpy>=1.21.0
+# pandas>=1.3.0
+# scikit-learn>=1.0.0
+
+# Computer Vision
+# opencv-python>=4.5.0
+# Pillow>=8.3.0
+# imageio>=2.9.0
+
+# Deep Learning utilities
+# albumentations>=1.0.0
+# timm>=0.4.0
+
+# Data processing
+# matplotlib>=3.4.0
+# seaborn>=0.11.0
+
+# Utilities
+# tqdm>=4.62.0
+# pyyaml>=5.4.0
+# click>=8.0.0
+
+# Development
+# pytest>=6.2.0
+# black>=21.0.0
+# flake8>=3.9.0
+
+# Add your specific requirements here
